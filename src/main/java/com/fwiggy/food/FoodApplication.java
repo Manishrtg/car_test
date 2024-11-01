@@ -8,6 +8,7 @@ public class FoodApplication {
 
 	public static void main(String[] args) {
 		System.out.println("I am manish");
+		System.out.println("I am Manish's Brother Price");
 		SpringApplication.run(FoodApplication.class, args);
 	}
 }
