@@ -10,6 +10,7 @@ public class FoodApplication {
 		System.out.println("I am manish");
 		System.out.println("I am Manish's Brother Price");
 		System.out.println("I am Manish's Sister Pooja");
+		System.out.println("I am Manish's Sister Priya");
 		SpringApplication.run(FoodApplication.class, args);
 	}
 }
